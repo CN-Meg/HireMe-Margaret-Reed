@@ -1,0 +1,36 @@
+img{
+    height:300px;
+    border-style: solid;
+    border-width: 10px;
+}
+h1{
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    font-weight: bold;
+    font-size: 64px;
+}
+h2{
+    font-family: 'Amatic SC', cursive;
+    font-size: 48px;
+    text-align: center;
+    color: white;
+}
+p{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 24px;
+}
+ul{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 24px;
+}
+h1:hover {
+    color: yellow;
+}
+h2:hover {
+    color: purple;
+}
+body{
+    background-color: grey;
+    text-align: center;
+}
